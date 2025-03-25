@@ -1,0 +1,9 @@
+.container-xl{
+    background-color: var(--main-bg-color);
+}
+@media (max-width:860px) {
+    .container-xl{
+        width: 90%;
+        margin: auto;
+    }
+}
